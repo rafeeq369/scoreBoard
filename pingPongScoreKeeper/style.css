@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+}
+
+.scoreTo h3, .scoreTo select{
+    display: inline-block;    
+}
+.green{
+    color: green;
+    transition: .3s;
+}
+.red{
+    color: red;
+    transition: .3s;
+}
